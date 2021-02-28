@@ -1,0 +1,52 @@
+# Kickstarting with Excel
+
+## Overview of Project
+*This project was to find hidden trends on several thousand crowdfunding projects. And upon further analysis we want
+ to find. While examining the results we wanted to narrow the analysis to the trend of how campaigns preformed in relation to their launch dates meeting their goals. In order to find the most successful launch date for a Play. 
+
+### Purpose
+*    The Purpose of this analysis is to know how different campaigns fared in relation
+    to their launch dates and their funding goals. This analysis will determine when should campaigns be launched and what goal has been the most successful and when and at what goal trended to fail reaching their goals. 
+
+## Analysis and Challenges
+*With analyzing the outcomes of goals that were successful, failed and that were canceled.  Can see a trend of campaigns
+ being launched in April trending upwards. Peaking in May. Then a steady decline during the remaining months of summer.
+ Campaigns that were launched in May also had a higher tendency of failing in May. The outcomes of a campaign failing were
+ at its lowest point in November. Then in December the outcomes of successful campaigns maintained a higher trend of being
+ successful, however the outcome of failing to meet the goal vs. being successful evened out.
+
+### Analysis of Outcomes Based on Launch Date
+*The outcome of theater launches was most successful launched in May than any other month. The outcomes for successful 
+campaigns maintained a steady trend down but failed outcomes peaked in May and remained steady until dipping in September 
+then peaking again In October like the summer months and then going to its lowest point in November. December shows that 
+the outcome of campaigns launched had an almost even chance of being successful or failing with successful outcomes showing
+ a slight advantage. 
+
+### Analysis of Outcomes Based on Goals
+*The most successful outcomes were when those goals ranged between $1000. to $4000. Peaking once again at $25000 to $29999.
+ Then having a higher percentage of failing from $30000 then becoming more successful once the goal was$ 49999 or greater.
+
+### Challenges and Difficulties Encountered
+
+## Results
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+That launching a campaign in the month of May saw the highest number of successful outcomes of reaching their goal. But remaining more successful over the summer months. Fall Launch dates had a higher number of outcomes failing, peaking in October.
+
+- What can you conclude about the Outcomes based on Goals?
+That having a goal of $25,000 to $29999 saw a higher percentage of successful outcomes and a lower percentage of failed out
+comes. And having a goal of $50000 or more the highest percentage of being successful.  This analysis also shows that there
+ was a very low percentage of these campaigns being canceled. There may be more that could be looked into on cancelation
+ percentages even when campaigns are showing to fail. 
+
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+That having a goal of $25,000 to $29999 saw a higher percentage of successful outcomes and a lower percentage of failed out
+comes. And having a goal of $50000 or more the highest percentage of being successful.  This analysis also shows that there
+ was a very low percentage of these campaigns being canceled. There may be more that could be looked into on cancelation
+ percentages even when campaigns are showing to fail. 
+
+
+
+- What are some limitations of this dataset? 
+
+- What are some other possible tables and/or graphs that we could create?
